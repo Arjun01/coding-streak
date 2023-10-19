@@ -2,7 +2,7 @@
 
 // MAIN FUNCTION
 function main() {
-    const T = parseInt(inputString[0], 10); // Read the number of test cases
+    const T = parseInt(inputString[0], 10); 
     let currentIndex = 1; // Start at the first test case
 
     for (let ti = 0; ti < T; ti++) {
