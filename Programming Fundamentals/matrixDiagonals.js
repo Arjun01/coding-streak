@@ -6,7 +6,7 @@ function main() {
     let currentIndex = 1; // Start at the first test case
 
     for (let ti = 0; ti < T; ti++) {
-        const N = parseInt(inputString[currentIndex], 10); // Read the size of the square matrix
+        const N = parseInt(inputString[currentIndex], 10); 
         currentIndex++;
 
         const matrix = [];
