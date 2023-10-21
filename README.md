@@ -31,6 +31,34 @@ Welcome to my Coding Streak repository, my go-to place for daily coding practice
   - [Divide & Conquer](#divide--conquer)
   - [Bit Manipulation](#bit-manipulation)
 
+
+1.  Basics of Number System (Binary vs Decimal)
+2.  Range of Data Types (32-bit and 64-bit)
+3.  Functions and Recursion
+4.  Complexity Analysis
+5.  Bitwise Operators and Bit Manipulations
+6.  Modulo Arithmetic
+7.  Prefix Sum
+8.  Pre-Computations
+9.  Two Pointer Technique
+10.  Subarray Problems, Sliding Window
+11.  Sorting and Searching
+12.  Meet in the Middle
+13.  Mixed Concepts: Interview Questions Discussion
+14.  Stacks and Its Applications
+15.  Queues and Its Applications
+16.  Priority Queue/Heap
+17.  Hashing - Set, Map, String Hashing
+18.  Game Theory
+19.  Divide and Conquer
+20.  Matrix Exponentiation, Segment Tree, Fenwick Tree
+21.  Linked Lists and Interivew Questions
+22.  Trees, Binary Search Tree, Binary Tree, N-ary Tree and Interview Questions
+23.  Trie
+24.  Graph Algorithms (BFS, DFS, Implicit Graphs, Disjoint Set Union, Topological Sort, Shortest Path Problems, Bipartite Graphs, Cycle Detection)
+25.  Dynamic Programming (Counting DP, Grid DP, Subset DP, String DP, Partition DP)
+26.  Backtracking
+
 ## Data Structures
 
 ### Arrays
